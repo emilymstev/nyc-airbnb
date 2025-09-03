@@ -23,8 +23,7 @@ An interactive **R Shiny** web application that helps users explore and compare 
   Filter and explore Airbnb listings by:  
   - Price range (up to $1000/night)  
   - Room type  
-  - Neighborhood  
-  Results are displayed on an interactive **Leaflet map** with cluster markers and popups.  
+  - Neighborhood results are displayed on an interactive **Leaflet map** with cluster markers and popups.  
 
 ---
 
