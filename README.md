@@ -61,6 +61,8 @@ install.packages(c("shiny", "dplyr", "ggplot2", "leaflet", "tidyverse", "readxl"
 
 ```
 
+Run the application via the app.R file
+
 ## Project Structure
 
 ```plaintext
@@ -70,6 +72,3 @@ install.packages(c("shiny", "dplyr", "ggplot2", "leaflet", "tidyverse", "readxl"
 ├── nyc_census_tracts.csv  # NYC census dataset (download from Kaggle)
 └── README.md              # Project documentation
 ```
-
-## Running the application locally
-Run the application from the app.R file using shiny::runApp("app.R") or the run button in R Studio.
